@@ -1,1 +1,1 @@
-# ai_training
+# LocalAIAgentWithRAG

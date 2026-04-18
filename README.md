@@ -1,1 +1,1 @@
-# ai_training
+# My New AI Repo
